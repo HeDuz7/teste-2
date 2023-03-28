@@ -12,7 +12,6 @@ Teste 2 ------------------------------------------
   return false;
 }
 
-// Exemplo de uso:
 const num = 21;
 if (fibonacci(num)) {
   console.log(`${num} pertence à sequência de Fibonacci`);
